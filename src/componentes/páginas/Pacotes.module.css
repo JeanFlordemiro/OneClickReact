@@ -1,0 +1,96 @@
+.container {
+    width: 100%;
+    display: flex;
+
+
+}
+
+h1 {
+    color: tomato;
+    text-align: center;
+    margin: 1em;
+    font-size: 50px;
+
+}
+
+.card {
+    max-width: 800px;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+    background-color: tomato;
+    border-bottom-right-radius: 0.8em;
+    border-top-left-radius: 0.8em;
+
+}
+
+.card p {
+    text-align: center;
+    color: white;
+    font-size: 25px;
+}
+
+.card img {
+    width: 100%;
+    max-width: 300px;
+}
+
+.background {
+    background-color: khaki;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    margin-bottom: 1em;
+}
+
+/*  */
+
+.card2 {
+    max-width: 800px;
+    margin: 0.5em;
+    background-color: cornflowerblue;
+    border-bottom-right-radius: 0.8em;
+    border-top-left-radius: 0.8em;
+
+}
+
+.card2 p {
+    text-align: center;
+    color: white;
+    font-size: 25px;
+}
+
+.card2 img {
+    width: 100%;
+    max-width: 300px;
+}
+
+.background2 {
+    background-color: khaki;
+    margin-bottom: 1em;
+}
+
+/*  */
+
+.card3 {
+    max-width: 800px;
+    margin: 0.5em;
+    background-color: darkslategray;
+    border-bottom-right-radius: 0.8em;
+    border-top-left-radius: 0.8em;
+
+}
+
+.card3 p {
+    text-align: center;
+    color: white;
+    font-size: 25px;
+}
+
+.card3 img {
+    width: 100%;
+    max-width: 300px;
+}
+
+.background3 {
+    background-color: khaki;
+    margin-bottom: 1em;
+}

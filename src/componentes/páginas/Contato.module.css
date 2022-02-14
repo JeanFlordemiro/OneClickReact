@@ -1,0 +1,24 @@
+ .contatos {
+     background-color: tomato;
+     color: white;
+     text-align: center;
+     font-size: 40px;
+     padding: 1em;
+     border-radius: 1em;
+
+ }
+
+ #redes {
+     font-size: 30px;
+ }
+
+ #redes a {
+     text-decoration: none;
+     color: white;
+
+ }
+
+ #redes a:hover {
+     color: gold;
+
+ }

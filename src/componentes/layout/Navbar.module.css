@@ -1,0 +1,48 @@
+.navbar {
+    background-color: tomato;
+    border-bottom-style: solid;
+    border-bottom-color: darkslategray;
+    border-width: 3px;
+    display: flex;
+    justify-content: space-between;
+    padding: 1em;
+    padding-top: 1.5em;
+
+}
+
+
+.list {
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: center;
+    border-style: solid;
+    border-radius: 2em;
+    border-width: 0.2em;
+    border-color: white;
+    margin-left: 0.5em;
+
+}
+
+.navbar img {
+    padding-top: 0.4em;
+
+}
+
+.item {
+    margin-right: 1em;
+    font-size: 20px;
+
+}
+
+.item a {
+    color: white;
+    text-decoration: none;
+
+}
+
+.item a:hover {
+    color: crimson;
+
+}
+
